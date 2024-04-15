@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5105a20deb2d41543ad2ad8fa740ee3f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - letterList: {instanceID: 0}
+  - letterItemPrefab: {fileID: 2438661325532188342, guid: be78dd66d7bd0dc4f93a32c41916d7e5, type: 3}
+  - hangman: {instanceID: 0}
+  - keyboard: {instanceID: 0}
+  - keyboardItemPrefab: {fileID: 3687502055930382941, guid: 0416ee43d29bcfa4b99b624f26e456df, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
